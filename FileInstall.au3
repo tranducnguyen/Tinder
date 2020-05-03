@@ -1,0 +1,1 @@
+If Not FileExists($DataFolder) Then DirCreate($DataFolder)
