@@ -386,5 +386,5 @@ EndFunc   ;==>_getlistPeopleNearby
 ;~ EndFunc   ;==>_getAPIToken
 
 
-
+;~ Like thử thôi
 
